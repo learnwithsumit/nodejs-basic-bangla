@@ -190,4 +190,4 @@ Project Link: [https://github.com/learnwithsumit/repo_name](https://github.com/l
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
 [instagram-url]: https://instagram.com/learnwithsumit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/company/learnwithsumit
