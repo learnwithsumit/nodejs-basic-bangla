@@ -17,15 +17,15 @@
 ## Table of Contents
 
 - [Update Node](#update-node)
-  - [Windows](#on-windows)
-  - [Mac](#on-mac)
-- [Install & Update Yarn](#install-and-update-yarn)
   - [Windows](#windows)
   - [Mac](#mac)
+- [Install and Update Yarn](#install-and-update-yarn)
+  - [Windows](#on-windows)
+  - [Mac](#on-mac)
 - [VS Code Editor Setup](#vs-code-editor-setup)
   - [Extensions](#extensions)
   - [Settings](#settings)
-- [Linting Setup](#linting)
+- [Linting Setup](#linting-setup)
   - [Install Dev Dependencies](#install-dev-dependencies)
   - [Setup Linting Configuration file](#setup-linting-configuration-file)
 - [Contact](#contact)
@@ -38,7 +38,7 @@ Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`
 
-### On Windows
+### Windows
 
 1. Update npm
    ```sh
@@ -57,7 +57,7 @@ Here's a blank template to get started:
    n latest
    ```
 
-### On Mac
+### Mac
 
 1. With Homebrew
    ```sh
@@ -179,7 +179,9 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
 
 Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
 
-Project Link: [https://github.com/learnwithsumit/repo_name](https://github.com/learnwithsumit/nodejs-basic-bangla)
+Project Link: [https://github.com/learnwithsumit/nodejs-basic-bangla](https://github.com/learnwithsumit/nodejs-basic-bangla)
+
+Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
