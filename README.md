@@ -151,7 +151,6 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
   },
   "env": {
     "commonjs": true,
-    "es2021": true,
     "node": true
   },
   "rules": {
