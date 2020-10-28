@@ -34,9 +34,7 @@
 
 ## Update Node
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+Please follow the below instructions to update node in your machine:
 
 ### Windows
 
@@ -136,7 +134,7 @@ In order to lint and format your code automatically according to popular airbnb 
 ### Install Dev Dependencies
 
 ```sh
-yarn add -D -D eslint prettier
+yarn add -D eslint prettier
 npx install-peerdeps --dev eslint-config-airbnb-base
 yarn add -D eslint-config-prettier eslint-plugin-prettier
 ```
