@@ -9,6 +9,7 @@
   },
   "rules": {
     "no-console": 0,
+    "indent": 0,
     "prettier/prettier": [
       "error",
       {
