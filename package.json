@@ -1,4 +1,8 @@
 {
+  "name": "nodejs-basic-bangla",
+  "description": "সহজ বাংলায় Node.js টিউটোরিয়াল সিরিজ Powered by Learn with Sumit.",
+  "version": "1.0.0",
+  "main": "index.js",
   "devDependencies": {
     "eslint": "7.2.0",
     "eslint-config-airbnb-base": "14.2.0",
@@ -6,5 +10,19 @@
     "eslint-plugin-import": "^2.21.2",
     "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^2.1.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learnwithsumit/nodejs-basic-bangla.git"
+  },
+  "keywords": [],
+  "author": "Sumit Saha <sumit@learnwithsumit.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/learnwithsumit/nodejs-basic-bangla/issues"
+  },
+  "homepage": "https://github.com/learnwithsumit/nodejs-basic-bangla#readme"
 }
