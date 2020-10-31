@@ -162,8 +162,7 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
         "singleQuote": true,
         "printWidth": 100,
         "tabWidth": 4,
-        "semi": true,
-        "endOfLine": "auto"
+        "semi": true
       }
     ]
   },
