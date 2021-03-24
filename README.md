@@ -115,9 +115,9 @@ Go to your Visual Stuido Code `settings.json` file and add the below settings th
 "editor.defaultFormatter": "esbenp.prettier-vscode",
 "editor.formatOnSave": true,
 "[javascript]": {
-  "editor.formatOnSave": false
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": null
 },
-"prettier.disableLanguages": ["javascript"],
 "editor.codeActionsOnSave": {
   "source.fixAll.eslint": true,
   "source.organizeImports": true
